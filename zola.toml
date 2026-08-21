@@ -21,5 +21,4 @@ theme = "catppuccin-mocha"
 header_nav = [
 	{url = "/", name_en = "About" },
 	{url = "/research", name_en = "Research" },
-	{url = "/notes", name_en = "Notes" },
 ]
