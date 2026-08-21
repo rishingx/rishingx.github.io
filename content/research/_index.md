@@ -14,7 +14,7 @@ title = "Research"
 (S. N. Bhatt Memorial Excellence Fellowship Program 2026, ICTS-TIFR)
 
 
-* **Abstract Harmonic Analysis** [[report](/research/surge-report.pdf)] [[poster](/research/poster.pdf)]  
+* **Abstract Harmonic Analysis** [[report](/research/surge-report.pdf)] [[poster](/research/surge-poster.pdf)]  
 (SURGE 2025, IIT Kanpur)
 
 
