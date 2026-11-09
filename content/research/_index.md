@@ -5,7 +5,6 @@ title = "Research"
 ### Pre-prints
 
 * **Hat guessing with proper colorings** (2026). [[arXiv](https://arxiv.org/abs/2603.04909)]  
-(submitted to Journal of Graph Theory)
 
 
 ### REUs
@@ -23,8 +22,8 @@ title = "Research"
 
 ### Projects
 
-* **Ultrapowers & Keisler-Shelah Theorem (GCH)** [[report](/research/mth496-report.pdf)] [[slides](/research/mth496-slide.pdf)]
+* **Ultrapowers & Keisler-Shelah Theorem (GCH)** [[report](/research/mth496-report.pdf)] [[slides](/research/mth496-slide.pdf)]  
 (Undergraduate Project 2026, IIT Kanpur)
 
-* **Dirichlet's Theorem** [[report](/research/mth497-report.pdf)] [[slides](/research/mth497-slide.pdf)]
+* **Dirichlet's Theorem** [[report](/research/mth497-report.pdf)] [[slides](/research/mth497-slide.pdf)]  
 (Undergraduate Project 2026, IIT Kanpur)
